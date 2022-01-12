@@ -7,4 +7,4 @@ This project can be addicted by connection to database and development of backen
 Also, this projet was created by copy-paste way with me. The main source of information was pointed out bellow.
 https://www.youtube.com/playlist?list=PLoq3Accf02PVO4GvY4-UtIQkeD6tNmX_f
 
-I thought, that every developer should note the sourse of his knowledge with ethical point of view.
+I consider that every developer should note the sourse of his knowledge with ethical point of view.
