@@ -1,7 +1,7 @@
 # ActiveBox
 The first full-fledged frontend project
 
-There is an agency that specialize on creating website/landing on the site. The site includes adaptive versions for different types of devices. For development was used VS code 2019 and html/css/js (JQuery).
+There is an agency that specialize on creating website/landing. The site includes adaptive versions for different types of devices. For development was used VS code 2019 and html/css/js (JQuery).
 
 This project can be addicted by connection to database and development of backend.
 Also, this projet was created by copy-paste way with me. The main source of information was pointed out bellow.
